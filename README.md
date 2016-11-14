@@ -20,12 +20,16 @@
 
 * https://github.com/carloscuesta/gitmoji
 
+## Agregators
+* [Habrahabr](https://habrahabr.ru/posts/frontend/)
+* https://vk.com/forwebdev
+
 ## Blogs
 * [HTML5Rocks](http://www.html5rocks.com) - непоганий ресурс по html5(анг.)
 * [CSS-Tricks](https://css-tricks.com/) - ресурс де показаны прикольні трюки на CSS
 * https://addyosmani.com/
 * http://lea.verou.me/
-* [Frontend magazine](//frontender.info/) - кращий ресурс російскою мовою про фронтенд 
+* [Frontend magazine](//frontender.info/) - кращий ресурс російскою мовою про фронтенд
 
 ## Handbooks
 * [mdn](//developer.mozilla.org/ru/) - можна вважати найкращою документацію по Веб-технологіям, якщо цікавить, наприклад, "window methods", додавайте "mdn" щоб отримати максимально повну інформацію
