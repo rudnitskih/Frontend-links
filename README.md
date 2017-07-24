@@ -1,4 +1,7 @@
 # Frontend-links
+* https://uptodate.frontendrescue.org/
+* https://philipwalton.com/articles/how-to-become-a-great-front-end-engineer/
+
 ## Styleguide
 * [google.github.io/styleguide/javascriptguide.xml](https://google.github.io/styleguide/javascriptguide.xml)
 
@@ -6,10 +9,18 @@
 * [RadioJS](https://radiojs.ru/)
 * [WebStandards](https://soundcloud.com/web-standards)
 
+## Books
+* [Build own AngularJS](https://teropa.info/build-your-own-angular/)
+* [Addy Osmani Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/index.html)
+* [Stoyan Stefanov JavaScript Patterns](http://shop.oreilly.com/product/9780596806767.do)
+* [Douglas Crockford JavaScript: The Good parts](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf)
+* [David Flanagan: JavaScript: The Definitive Guide, 6th Edition](http://shop.oreilly.com/product/9780596805531.do)
+
 ## Tutorials
 * [Learn X in Y](http://learnxinyminutes.com/docs/ru-ru/javascript-ru/) - якщо тільки починаєте працювати з JS обов'язково почнить з цього манула
 * [learn.javascript.ru](//learn.javascript.ru) - дуже гарний підручник для front-end розробника рос мовою від Іл'ї Кантора, обов'язково для будь якого розробника для розуміння css [прочитати це](http://learn.javascript.ru/css-for-js)
 * [Sorax](//www.youtube.com/user/ArtSorax) - якісний канал на YouTube(рос.)
+* [Javascript Garden](https://bonsaiden.github.io/JavaScript-Garden/)
 
 ## Articles
 
