@@ -24,6 +24,7 @@
 
 ## Articles
 
+* [Angular JS on patterns](https://github.com/mgechev/angularjs-in-patterns)
 * [Как стать отличным front-end-разработчиком](https://habrahabr.ru/company/friifond/blog/293936/)
 * [Ресурсы для дизайнеров и front-end-разработчиков](https://habrahabr.ru/company/it-grad/blog/272387/)
 
